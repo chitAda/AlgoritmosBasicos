@@ -8,7 +8,7 @@ public class AppTrianguloNumeros {
 		int cont=1;//va del uno por que la serie es desde ahi
 		int cont2=0;//para el while y do while
 		Scanner entrada = new Scanner(System.in);
-		
+		System.out.println("PIRAMIDE DE NUMEROS ");
 		System.out.println("Ingresa Numero Limite For: ");
 		iCant=entrada.nextInt();
 		System.out.println(iCant);
